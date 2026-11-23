@@ -1,19 +1,21 @@
-![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
-<h1 align="center">Hi 👋, I'm Berkay Çiftçi</h1>
-<h3 align="center">42 Istanbul Student - Management Information Systems</h3>
+# Berkay Çiftçi
 
-- 📫 How to reach me **berkaythesoftware@gmail.com**
+I study software development at 42 Istanbul and Management Information Systems. My projects cover C and C++, Linux systems, and TypeScript applications.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ciftciberkay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ciftciberkay" height="30" width="40" /></a>
-</p>
+## Selected projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+| Project | What it does |
+| --- | --- |
+| [Inception](https://github.com/ciftciberkay/Inception) | Builds and runs a WordPress stack with Docker Compose, NGINX, and MariaDB. |
+| [Minishell](https://github.com/ciftciberkay/minishell) | Implements an interactive Unix shell in C with pipes, redirections, and built-ins. |
+| [cub3D](https://github.com/ciftciberkay/cub3d) | Renders textured first-person views from 2D maps using raycasting. |
+| [Philosophers](https://github.com/ciftciberkay/philosophers) | Models a concurrency problem with POSIX threads and mutexes. |
+| [DiaHealth](https://github.com/ciftciberkay/DiaHealth) | Combines an Expo mobile app, a NestJS API, and a Next.js admin workspace. |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ciftciberkay&show_icons=true&locale=en&layout=compact" alt="ciftciberkay" /></p>
+## More work
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ciftciberkay&show_icons=true&locale=en" alt="ciftciberkay" /></p>
+[CPP-00](https://github.com/ciftciberkay/CPP-00) through [CPP-09](https://github.com/ciftciberkay/CPP-09) cover C++98 from classes and memory management to templates and standard containers. [Libft](https://github.com/ciftciberkay/libft), [ft_printf](https://github.com/ciftciberkay/ft_printf), and [Get Next Line](https://github.com/ciftciberkay/get_next_line) are C library exercises.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ciftciberkay&" alt="ciftciberkay" /></p>
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/ciftciberkay/) · [Email](mailto:berkaythesoftware@gmail.com)
